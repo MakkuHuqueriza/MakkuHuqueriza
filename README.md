@@ -7,4 +7,4 @@
 ### Note:
 - This account was made for school purposes and will not fully reflect my contributions.
 
-- 📫 How to reach me: <a href="https://github.com/Maakkkuu">@Maakkkuu</a>
+- 📫 How to reach me: <a href="https://github.com/Maakkkuu" target="_blank" >@Maakkkuu</a>
