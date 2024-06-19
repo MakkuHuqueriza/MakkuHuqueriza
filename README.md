@@ -5,6 +5,6 @@
 - I am very new to computer science and I hope to become better as time progresses. 😄
 
 ### Note:
-- This account was made for school purposes and will not fully reflect my contributions.
-
-- 📫 How to reach me: <a href="https://github.com/Maakkkuu" target="_blank" >@Maakkkuu</a>
+- 🧐 This account was made for school purposes and will not fully reflect my contributions.
+- 📫 How to reach me: mhpena@up.edu.ph
+- 💫 Check out my Github Main Account: <a href="https://github.com/Maakkkuu" target="_blank" >@Maakkkuu</a>
